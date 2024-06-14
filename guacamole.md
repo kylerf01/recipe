@@ -5,6 +5,7 @@ Ingredients:
 -1 onion
 -jalapeno to taste
 -1/2 cup chocolate chips
+-1 tablespoon cherry pie filling
 
 Instructions
 -cut and mash avacados
@@ -14,3 +15,4 @@ Instructions
 -add salt
 -stir in chocolate chips
 -mix well
+-top with cherry pie filling
