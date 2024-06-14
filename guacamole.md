@@ -4,6 +4,7 @@ Ingredients:
 -2 teaspoons of salt
 -1 onion
 -jalapeno to taste
+-1/2 cup chocolate chips
 
 Instructions
 -cut and mash avacados
@@ -11,4 +12,5 @@ Instructions
 -chop jalapeno
 -squeeze lime
 -add salt
+-stir in chocolate chips
 -mix well
